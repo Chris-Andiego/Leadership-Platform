@@ -1,0 +1,28 @@
+.Footer-container{
+    background-color: black;
+    height: 50px;
+}
+.fb{
+    size: 20px;
+    color: white;
+    padding-left: 2px;
+}
+.twit{
+    size: 20px;
+    color: white;
+    padding-left: 2px;
+}
+.yt{
+    size: 20px;
+    color: white;
+    padding-left: 2px;
+}
+.google{
+    size: 20px;
+    color: white;
+    padding-left: 2px;
+}
+.web{
+    color: white;
+    font-size: 15px;
+}

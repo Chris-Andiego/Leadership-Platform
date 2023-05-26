@@ -1,0 +1,30 @@
+.Homedesign{
+    height: 555px;
+}
+.text-container{
+    background-color: white;
+    align-self: center;
+    width: 50%;
+    justify-content: center;
+    padding-top: 10px;
+    padding-left: 300px;
+}
+.HomeText{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 500;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.image{
+    size: 150px;
+    justify-content: left;
+    padding-top: 20px;
+    padding-left: 10px;
+    background-color: white;
+}

@@ -1,0 +1,49 @@
+.navbar-logo{
+    color: black;
+    text-decoration-line: none;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: rgb(130, 130, 238);
+     
+}
+.bars{
+    color:black;
+}
+.btn1{
+    background-color: black;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 90px;
+    height: 40px; 
+    border: 1px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+.btn2{
+    background-color: black;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 90px;
+    height: 40px; 
+    border: 1px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+.nav-links{
+    padding-right: 50px;
+    color: black;
+    text-decoration-line: none;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.btnlink{
+    color: white;
+    text-decoration-line: none;
+}

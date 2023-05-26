@@ -1,0 +1,36 @@
+.title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.upload-design{
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+}
+.uploads{
+    height: 555px;
+}
+.upload-container{
+    background-color: white;
+    height: 420px;
+    width: 35%;
+}
+.inputs{
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #302a2a;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    
+  }
+  input{
+    width: 700px;
+    height: 50px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+  }
