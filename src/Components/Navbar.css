@@ -9,6 +9,9 @@
     background-color: rgb(130, 130, 238);
      
 }
+.navbar-container-lo{
+    height: 10px;
+}
 .bars{
     color:black;
 }
@@ -46,4 +49,7 @@
 .btnlink{
     color: white;
     text-decoration-line: none;
+}
+.ulist{
+    padding-left: 800px;
 }
