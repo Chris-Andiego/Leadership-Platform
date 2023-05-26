@@ -9,7 +9,7 @@ import SignUp from './Components/Signup';
 import Reviews from './Components/Reviews';
 
 const router = createBrowserRouter([
-  {
+  { 
     path: "/", 
     element: <App/>,
   },
